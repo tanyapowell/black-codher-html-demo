@@ -1,0 +1,12 @@
+h1 {
+  color: pink;
+}
+
+body {
+  background-color: rebeccapurple;
+}
+
+#about {
+  background-color: royalblue;
+  height: 250px;
+}
